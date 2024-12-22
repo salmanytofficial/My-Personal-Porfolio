@@ -1,17 +1,8 @@
 <div align="center">
 
-# VERSION 2 - Personal portfolio
+# Personal portfolio
 
-VERSION 1 is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
-
- <a href="https://tomsabu444.github.io/Portfolio-Template-2"><strong>💞 Live Demo</strong></a> 
- 
- </div>
- 
-## Demo
-
- <a href="https://tomsabu444.github.io/Portfolio-Template-2"><strong>➥ Live Demo</strong></a> 
-
+It's a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## License
 
